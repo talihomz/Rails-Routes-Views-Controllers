@@ -4,6 +4,10 @@ class UsersController < ApplicationController
     @name = 'index'
   end
 
+  def create
+    
+  end
+
   def new
     @name = 'new'
   end
